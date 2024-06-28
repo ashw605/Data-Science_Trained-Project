@@ -23,16 +23,7 @@ Approach Used
 Data Wrangling: Clean data by handling missing values, standardizing formats, and correcting inconsistencies.
 Feature Engineering: Create new features from existing data to enhance analysis.
 Exploratory Data Analysis (EDA): Visualize data to uncover trends and answer key business questions.
-Getting Started
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/your-repo/amazon-sales-analysis.git
-cd amazon-sales-analysis
-Install Dependencies:
-bash
-Copy code
-pip install -r requirements.txt
+
 Run the Analysis:
 Open the Jupyter notebook and execute the cells for data cleaning, EDA, and analysis.
 Files and Directories
